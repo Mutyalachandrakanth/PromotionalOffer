@@ -16,14 +16,7 @@ You will need `node` and `npm` installed globally on your machine.
 Installation:
 `npm install`
 
-Libray Installation:
 
-`npm install dayjs --save`
-`npm install redux-persist`
-`npm install redux`
-
-
-open `Promo` directory and run below commands.
 
 To Start Server:
 
@@ -32,5 +25,10 @@ To Start Server:
 To Visit App:
 
 `http://localhost:3000/` 
+
+
+App Screen:
+
+![Alt text](./public/AppScreen.jpg?raw=true "App Home Screen")
 
 
