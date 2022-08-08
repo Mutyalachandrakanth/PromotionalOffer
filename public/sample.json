@@ -1,0 +1,9 @@
+{
+    "data": {
+        "test": "test",
+        "type": "promotion",
+        "prizeValue": 10,
+        "offerTime": 300 
+    }
+}
+

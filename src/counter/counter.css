@@ -1,0 +1,28 @@
+.countdown {
+  display: flex;
+  flex-direction: column;
+  width: 75%;
+  font-size: calc(1.5rem + 1vw);
+  align-content: center;
+  margin: auto;
+}
+@media screen and (min-width: 450px) {
+  .countdown {
+    width: 35%;
+  }
+}
+.countdown-row {
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+  font-weight: bold;
+}
+.countdown-row1 {
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+  font-size: calc(0.6rem + 1vw);
+}
+.countdown-labels {
+  margin-right: 5px;
+}
